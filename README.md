@@ -249,17 +249,17 @@ Business Insights
 
 📷 Dashboard Preview
 
-Executive Dashboard
+### Executive Dashboard
 
-Add Executive Dashboard screenshot here.
+![Executive Dashboard](5a63563f-9223-4002-b62d-846c79bc034e.jpeg)
 
-Risk Analysis Dashboard
+### Customer Risk Analysis
 
-Add Risk Analysis Dashboard screenshot here.
+![Customer Risk Analysis](4be7abbd-d0ec-42d7-9898-a32e844ceeb7.jpeg)
 
-Customer Analysis Dashboard
+### Loan Performance Analysis
 
-Add Customer Analysis Dashboard screenshot here.
+![Loan Performance Analysis](88ed231a-ae1a-41f0-b667-5cac1d64c6d3.jpeg)
 
 ⸻
 
